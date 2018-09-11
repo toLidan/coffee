@@ -1,0 +1,52 @@
+
+@media screen and (min-width:1170px) and (max-width:1350px){
+	div.all{width:100%;overflow:hidden;}
+	div.all>.header{width:100%;}
+	div.all>.container{width:100%;}
+	div.all>.footer{width:100%;}
+}
+@media screen and (min-width:770px) and (max-width:1170px){
+	div.all{width:100%;overflow:hidden;}
+	div.all>.header{width:100%;}
+	div.all>.container{width:100%;}
+	div.all>.container>.title1>ul{width:90%;margin:0 auto;}
+	div.all>.container>.title1>ul>li{width:43%;margin:0 20px;}
+	div.all>.container>.title1>ul>li>a>p.two{height:110px;}
+	div.all>.container>.title2{margin:50px auto auto auto;}
+	div.all>.container>.title2>.left{width:100%;margin:30px auto;}
+	div.all>.container>.title2>img{width:100%;}
+	div.all>.container>.title3>ul{width:100%;margin:0 auto;}
+	div.all>.container>.title3>ul>li{width:45%;}
+	div.all>.container>.title4{height:400px;}
+	div.all>.container>.title4>.wraperAll>div.wraper>h2{height:80px;line-height:30px;margin-top:40px;}
+	div.all>.container>.title4>.wraperAll>div.wraper>p{height:90px;}
+	div.all>.footer>ul{width:70%;}
+	div.all>.footer>ul>li{width:20%;}
+	div.all>.footer>ul>li>a{font-size:18px;margin:0;}
+	div.all>.footer>p{font-size:18px;}
+	div.all>.footer{width:100%;}
+}
+@media screen and (min-width:340px) and (max-width:879px){
+	div.all>.container>.title4{height:400px;}
+	div.all>.container>.title4>.wraperAll>div.wraper>h2{height:100px;line-height:30px;margin-top:40px;}
+	div.all>.container>.title4>.wraperAll>div.wraper>p{height:70px;}
+}
+@media screen and (min-width:340px) and (max-width:770px){
+	div.all{width:100%;overflow:hidden;}
+	div.all>.header{width:100%;}
+	div.all>.header>._nav>ul.max_eva{display:none;}
+	div.all>.header>._nav>div.img{display:block;}
+	div.all>.container{width:100%;}
+	div.all>.container>.title1>ul{width:70%;margin:0 auto;}
+	div.all>.container>.title1>ul>li{width:100%;}
+	div.all>.container>.title1>ul>li>a>p.two{height:110px;}
+	div.all>.container>.title2{margin:40px auto auto auto;}
+	div.all>.container>.title2>.left{width:100%;margin:30px auto;}
+	div.all>.container>.title2>img{width:100%;}
+	div.all>.container>.title3>ul{width:80%;margin:0 auto;}
+	div.all>.container>.title3>ul>li{width:100%;margin:20px auto;}
+	div.all>.footer>ul{width:90%;}
+	div.all>.footer>ul>li{width:20%;}
+	div.all>.footer>ul>li>a{font-size:10px;margin:0;}
+	div.all>.footer{width:100%;}
+}
